@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "Motoko-ATV3-backend": {
+      "main": "src/Motoko-ATV3-backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
